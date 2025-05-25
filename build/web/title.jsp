@@ -1,0 +1,1 @@
+<img src="hub/logo.png" style="padding-top: 10px;"> <label style="margin-left: 80px;color: #362222; padding-top: 10px;font-size: 36px;">Puphub</label> 
