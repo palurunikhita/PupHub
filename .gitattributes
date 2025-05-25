@@ -1,0 +1,4 @@
+*.jsp linguist-language=Java
+build/** linguist-generated=true
+dist/** linguist-generated=true
+nbproject/private/** linguist-generated=true
